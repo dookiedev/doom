@@ -1,2 +1,1 @@
-theme: cayman
 # doom
